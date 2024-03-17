@@ -142,3 +142,5 @@ artifacts/pickle_format_data/img_PICKLE_file.pkl
 /new_dataset
 /artifacts
 YOLOv5_DeepSort_Tracking.ipynb
+runs/detect/exp/pedestrian.mp4
+runs/detect/exp2/0.mp4
